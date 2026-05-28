@@ -16,7 +16,10 @@
 
 <br />
 
-## 🎒 Inventory (Tech Stack)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&color=39FF14&vCenter=true&center=true&lines=Inventory+(Tech+Stack)&width=500" alt="Inventory" />
+</div>
 
 <table>
   <tr>
@@ -54,7 +57,10 @@
 
 <br />
 
-## 📜 Quest Log (Main Projects)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&color=39FF14&vCenter=true&center=true&lines=Quest+Log+(Projects)&width=500" alt="Quest Log" />
+</div>
 
 | Quest Name | Description | Status |
 | :--- | :--- | :--- |
@@ -65,7 +71,10 @@
 
 <br />
 
-## 🤝 Multiplayer (Connect)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&color=39FF14&vCenter=true&center=true&lines=Multiplayer+(Connect)&width=500" alt="Multiplayer" />
+</div>
 
 <div align="center">
   <a href="https://elassava.github.io/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
@@ -76,5 +85,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elassava&show_icons=true&theme=synthwave&hide_border=true&title_color=F7006E&icon_color=39FF14" alt="elassava's GitHub stats" />
+  <img src="https://pixel-profile.vercel.app/api?username=elassava" alt="elassava's Retro GitHub stats" />
 </div>
