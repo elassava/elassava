@@ -56,6 +56,16 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>🧪 Testing</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qase-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Test%20Documentation-4B5563?style=for-the-badge" />
+    </td>
+  </tr>
 </table>
 
 <br />
@@ -64,10 +74,12 @@
 
 | Quest Name | Description | Status |
 | :--- | :--- | :--- |
-| **[👑 Virtus R&D Software Inc.](#)** | Leading development of mobile & web projects, supervising interns, and ensuring code quality. | `[In Progress]` |
-| **[🏥 Medical Healthcare App](#)** | Built a robust medical platform for MSKU faculties using Node.js, Express, and Firebase. | `[Completed]` |
-| **[🧠 Emotion Recognition AI](#)** | Researched and co-authored a paper on AI-driven emotion detection for clinical environments. | `[Completed]` |
-| **[🎨 Neubrutal Portfolio](https://elassava.github.io/my-portfolio)** | My personal portfolio built with React & Vite, featuring a custom **Pixel Canvas**! | `[Completed]` |
+| **[👑 Virtus R&D Software Inc.](#)** | Led development of mobile & web projects, supervised interns, and ensured code quality. | `[Completed]` |
+| **[🔍 BT Bilgi Teknolojileri](#)** | Working as a QA Engineer — ensuring software quality through manual and automated testing. | `[In Progress]` |
+| **[🏠 Roomigoo](https://elasemrasava.codes/#projects)** | A roommate management app handling shared bills, rent tracking, grocery splitting, and household chores, with AI-powered recipe suggestions. | `[Completed]` |
+| **[🏋️ Sporcum](https://elasemrasava.codes/#projects)** | A gym management platform that simplifies gym operations, matches trainers with users, and streamlines payment processes. | `[In Progress]` |
+| **[🏢 Roomigoo Manage](https://elasemrasava.codes/#projects)** | A management dashboard for apartment managers, digitizing processes with full Roomigoo integration. | `[Completed]` |
+| **[🧠 Duygu Tanıma Testi](https://elasemrasava.codes/#projects)** | An academic medical platform enabling hearing-impaired individuals to test emotion recognition through audio, visual, and masked stimuli. | `[Completed]` |
 
 <br />
 
